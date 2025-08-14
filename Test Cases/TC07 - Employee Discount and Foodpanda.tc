@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07 - Employee Discount and Foodpanda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61d2f416-6d37-48d6-a955-71970943991e</testCaseGuid>
+</TestCaseEntity>

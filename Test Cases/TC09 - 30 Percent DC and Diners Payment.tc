@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09 - 30 Percent DC and Diners Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da87d310-f6c4-465d-973f-f42338855bd6</testCaseGuid>
+</TestCaseEntity>

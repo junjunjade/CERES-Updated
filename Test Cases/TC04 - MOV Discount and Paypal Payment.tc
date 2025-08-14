@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - MOV Discount and Paypal Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1e178d8-7fe2-48a5-9178-95ce2dbb04c3</testCaseGuid>
+</TestCaseEntity>

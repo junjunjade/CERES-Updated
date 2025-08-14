@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - PWD Discount and Wechat Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90c4f092-9ee6-4566-a455-bfbc9c9a3b1a</testCaseGuid>
+</TestCaseEntity>

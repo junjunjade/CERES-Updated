@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - 40 PERCENT DC and JCB Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cbdb73f-2d32-427e-a5d8-54876c7d43ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - No Discount and GCASH Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aa60bf5-8345-40e2-8a3b-1e443c0840b7</testCaseGuid>
+</TestCaseEntity>

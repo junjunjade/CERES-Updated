@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - Vat Exempt Sale and NFC Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1bab3364-c013-4fa4-9ece-7da11eb90642</testCaseGuid>
+</TestCaseEntity>

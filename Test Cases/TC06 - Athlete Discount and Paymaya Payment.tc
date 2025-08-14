@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - Athlete Discount and Paymaya Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f673b8a-0aba-4428-97da-ac6e766b72cb</testCaseGuid>
+</TestCaseEntity>
