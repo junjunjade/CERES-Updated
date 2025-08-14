@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - 5 Percent DC and Mastercard Credit Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>660d3842-b98d-47a0-bf1c-63d661d8324a</testCaseGuid>
+</TestCaseEntity>

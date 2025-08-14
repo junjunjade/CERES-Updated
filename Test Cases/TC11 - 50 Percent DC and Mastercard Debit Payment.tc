@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - 50 Percent DC and Mastercard Debit Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32a75c8e-22e9-4e62-a488-f69f7e0c7fdc</testCaseGuid>
+</TestCaseEntity>

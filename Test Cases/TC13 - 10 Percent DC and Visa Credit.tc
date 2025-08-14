@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - 10 Percent DC and Visa Credit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a578747-b4f3-450c-9509-554756afbaf5</testCaseGuid>
+</TestCaseEntity>
